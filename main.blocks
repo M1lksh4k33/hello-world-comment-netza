@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="Hg7f}r|Nul9VrU?mE2EJ" x="0" y="0"><comment pinned="true" h="155" w="409">Created by: Netza
+Created on: 2024/11/25
+
+This program says, "Hello, World!"</comment><data>{"commentRefs":[],"fieldData":{"~commentOffsetX":"-55.11111789279514","~commentOffsetY":"-191.11110602484808"}}</data><statement name="HANDLER"><block type="device_print_message" id="Q5N]tKON}+|+VkQzcH{r"><comment pinned="false" h="80" w="160">Created by: Netza
+Created on: 2024/11/25
+
+This program says, "Hello, World!"</comment><value name="text"><shadow type="text" id="%0Ys~q}*#r{7;l}J)c_X"><field name="TEXT">Hello, World!</field></shadow></value></block></statement></block></xml>
